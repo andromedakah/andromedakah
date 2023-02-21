@@ -43,14 +43,6 @@ A sample of my recent articles:
 </a>
   
 
-
-<!-- icons without padding -->
-
-[1.2]: ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=KahinaFerri) 
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/andromedakah/andromedakah/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/KahinaFerri

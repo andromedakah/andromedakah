@@ -47,6 +47,11 @@ A sample of my recent articles:
 [2]: https://github.com/andromedakah
 [3]: https://www.linkedin.com/in/kahinaf
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/andromedakah/count.svg" />
+</p>
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

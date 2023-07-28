@@ -4,8 +4,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/andromedakah/andromedakah/master/wave.gif" width="30px" height="30px" />
 
-My name is Kahina Ferroukhi and I'm a software developer/DevOps engineer passions : web3. You can find me on [![Twitter][1.2]][1],  or [![LinkedIn][3.2]][3].
-
 ## 🔧 Technologies & Tools :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -15,8 +13,6 @@ My name is Kahina Ferroukhi and I'm a software developer/DevOps engineer passion
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on on [Medium](https://medium.com/@kahina.ferroukhi).
 
 A sample of my recent articles:
 
@@ -39,25 +35,3 @@ A sample of my recent articles:
 <a href="https://github.com/andromedakah/bookchain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andromedakah&repo=bookchain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-  
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/KahinaFerri
-[2]: https://github.com/andromedakah
-[3]: https://www.linkedin.com/in/kahinaf
-
-<!-- links to your social media accounts 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/andromedakah/count.svg" />
-</p>
--->
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: [https://github.com/abhisheknaiidu/awesome-github-profile-readme](https://github.com/MartinHeinz/MartinHeinz) -->
